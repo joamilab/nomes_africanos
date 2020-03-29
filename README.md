@@ -1,5 +1,5 @@
 # Nuvem de palavras: Nomes Africanos
-Dados obtidos em https://www.slavevoyages.org, acervo digital com dados de viagens de pessoas africanas que foram capturadas e vendidas como escravas para países das Américas e Europa durante os séculos XVI - XIX. 
+Dados obtidos em https://www.slavevoyages.org, acervo digital com dados de viagens de pessoas africanas que foram capturadas e vendidas como escravas para países das Américas durante os séculos XVI - XIX. 
 
 Tutorial de Wordcloud com Python consultado: 
     https://sigmoidal.ai/como-criar-uma-wordcloud-em-python
